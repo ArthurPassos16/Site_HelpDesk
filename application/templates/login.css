@@ -1,0 +1,59 @@
+#area
+{
+  background-color: #42f477;
+  text-align: center;
+}
+h1 {
+    color: white;
+    text-align: center;
+  }
+
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+/*
+#area #formulario
+{
+  position:absolute;
+  display:block; 
+  background-color: #42f477;
+}
+fieldset
+{
+  width:300px;
+  height:250px;
+  background-color: #42f477;
+}
+
+legend
+{
+  font-style:bold;
+  font-family: "Segoe UI";
+
+}
+#formulario label
+{
+  position:absolute;
+  left:19px;
+  margin-right:5px;
+  background-color: #42f477;
+}
+ 
+ 
+#formulario input.campo_nome
+{
+  position:absolute;
+  left:95px;
+  top:23px;
+  width:225px;
+  background-color: #42f477;
+}
+#formulario input.campo_senha
+{
+  position:absolute;
+  left:95px;
+  margin-top:2px;
+  width:225px;
+  background-color: #42f477;
+}

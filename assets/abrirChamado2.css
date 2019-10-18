@@ -1,0 +1,45 @@
+#chamado
+{
+  position: relative;
+  margin-left: 38%;
+  width: 80%;
+  top:-75%;
+}
+#chamado #formulario
+{
+  position:absolute;
+  display:block;   
+}
+fieldset   
+{ 
+  background-color:#FFFFFF;
+  width:560px;
+  height:200px;
+} 
+
+#formulario input.label
+{
+  position:absolute;
+  font-size: 19px;
+  left:0px;
+  margin-right:5px;
+}
+ .mensagem
+{
+  resize: none;
+  background-color:#fff;
+  position:absolute;
+  top:12%;
+  left: 2%;
+  width:96%;
+  height: 70%;
+}
+
+#formulario input.btn_submit
+{
+  position:absolute;
+  bottom: 1em;
+  right:10%;
+  background-color:#284255;
+  color: #fff;
+}

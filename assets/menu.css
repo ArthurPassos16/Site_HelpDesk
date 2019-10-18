@@ -1,0 +1,31 @@
+#area{
+    background-image: url(http://localhost/CI-611/assets/img/helpdesk1.jpg); 
+    margin-left:15%;
+    width: 75%;
+    height: 100%;
+}
+ul {
+    margin-left: 0%;
+    padding: 0%;
+    list-style: none;
+    width: 16%;
+    height: 100%;
+    background-color: #284255;
+}
+ul li {
+    position: relative;
+}
+ul li a {
+    display: block;
+    text-decoration: none;  
+    color: #FFF;
+    background-color: #284255;
+    padding: 10%;
+    border: 0.05em solid #ccc; 
+    font-size: 150%; 
+}
+li:hover ul { 
+
+    display: block; 
+}
+
